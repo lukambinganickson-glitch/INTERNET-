@@ -1,0 +1,6 @@
+{
+  "name": "Hotspot Portal",
+  "description": "A secure Wi-Fi Hotspot Payment Core & Captive Portal Management System featuring mobile money integration and AI telemetry auditing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

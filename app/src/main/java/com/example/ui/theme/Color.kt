@@ -1,0 +1,31 @@
+package com.example.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+// Light mode color scheme (Clean modern cyber-blue & cobalt vibe)
+val LightPrimary = Color(0xFF0059FF)
+val LightOnPrimary = Color(0xFFFFFFFF)
+val LightPrimaryContainer = Color(0xFFECF3FF)
+val LightOnPrimaryContainer = Color(0xFF001B4B)
+val LightSecondary = Color(0xFF00C6FF)
+val LightOnSecondary = Color(0xFFFFFFFF)
+val LightBackground = Color(0xFFF6F8FC)
+val LightSurface = Color(0xFFFFFFFF)
+val LightOnBackground = Color(0xFF1E2229)
+val LightOnSurface = Color(0xFF2C323E)
+val LightSuccess = Color(0xFF00C853)
+val LightWarning = Color(0xFFFFAB00)
+
+// Dark mode color scheme (Premium dark cyber-blue & charcoal)
+val DarkPrimary = Color(0xFF3B82F6)
+val DarkOnPrimary = Color(0xFFFFFFFF)
+val DarkPrimaryContainer = Color(0xFF1E293B)
+val DarkOnPrimaryContainer = Color(0xFF93C5FD)
+val DarkSecondary = Color(0xFF06B6D4)
+val DarkOnSecondary = Color(0xFF083344)
+val DarkBackground = Color(0xFF0A0F1D)
+val DarkSurface = Color(0xFF151D30)
+val DarkOnBackground = Color(0xFFF1F5F9)
+val DarkOnSurface = Color(0xFFE2E8F0)
+val DarkSuccess = Color(0xFF10B981)
+val DarkWarning = Color(0xFFF59E0B)
